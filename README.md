@@ -2,7 +2,7 @@
 
 Meu nome é _Lara_
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.com.br/);
 - Estou desenvolvendo na linguagem de JavaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolidos.
 
@@ -11,3 +11,5 @@ Meu nome é _Lara_
 larittasophmt@gmail.com
 
 00001104638472SP@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/9HkzSQ2-aP0AAAAM/taylor-swift.gif)
